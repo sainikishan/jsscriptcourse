@@ -13,3 +13,4 @@ let isloggedin = "kishan"
 let booleanisloogedin = Boolean(isloggedin)
 console.log(booleanisloogedin);
 //endboolean
+
