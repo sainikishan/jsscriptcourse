@@ -13,4 +13,4 @@ console.log(gamecounter);
 let gamecounte = 100;
 gamecounter--;
 console.log(gamecounter);
-//emdpostx
+//emdpostxn
