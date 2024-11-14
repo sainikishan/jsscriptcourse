@@ -21,4 +21,9 @@ console.log(newString);
 //new method .slice
 const anotherstring = gameName.slice(-6, 3);
 console.log(anotherstring);
-
+//url
+const url = "hhtps::ksihan";
+console.log(url.replace("ksihan", "jyoti"))
+console.log(url.includes('ksihan'));
+//Array
+console.log(gameName.split('a'));
