@@ -16,4 +16,18 @@ console.log(myCreatedDate.toLocaleDateString());
 // console.log(myTimestamp);
 console.log(myTimestamp);
 console.log(Date.now() / 1000);
-console.log(Math.floor(Date.now()/1000));
+console.log(Math.floor(Date.now() / 1000));
+
+//new date
+let newdate = new Date();
+console.log(newdate);
+console.log(newdate.getFullYear());
+console.log(newdate.getDay());
+console.log(newdate.getMonth()+1);
+console.log(newdate.getTimezoneOffset());
+//Importnat Methid intrentaional
+// NewDate.toLocaleDateString('default', {
+//     weekday: 'Long',
+   
+// });
+
