@@ -13,3 +13,21 @@ console.log(myArr);
 //unshift  add value in array start
 myArr.unshift(9)
 console.log(myArr);
+//shift pass noparamter
+myArr.shift(9)
+console.log(myArr);
+// qauetion in array
+console.log(myArr.includes(1));
+console.log(myArr.indexOf(0));
+//join
+const newArr = myArr.join()
+console.log(newArr);
+console.log(myArr);
+//slice,splice
+console.log("a", myArr);
+const myn1 = myArr.slice(1, 3);
+console.log(myn1);
+console.log("b ".myArr);
+
+const myn2 = myArr.splice(1, 3);
+console.log(myn2);
