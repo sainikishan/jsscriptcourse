@@ -23,7 +23,7 @@ console.log(myArr.indexOf(0));
 const newArr = myArr.join()
 console.log(newArr);
 console.log(myArr);
-//slice,splice
+//slice,splice slice means 
 console.log("a", myArr);
 const myn1 = myArr.slice(1, 3);
 console.log(myn1);
